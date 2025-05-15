@@ -20,6 +20,10 @@ An Android assignment project using Jetpack Compose, built as part of an intervi
 - Material 3 design with card UI.
 - Voice-to-text input for easy user interaction.
 
+ScreenShots
+-  Screen 1 - [https://github.com/Prudhvikopella/Round32/blob/master/screen%203%20-%20chatScreen.png](https://github.com/Prudhvikopella/Round32/blob/master/screen%201%20-%20HomeScreen.png)
+-  Screen 2 - [https://github.com/Prudhvikopella/Round32/blob/master/screen%202%20-%20UserDetailScreen.png](https://github.com/Prudhvikopella/Round32/blob/master/screen%202%20-%20UserDetailScreen.png)
+-  Screen 3 - [https://github.com/Prudhvikopella/Round32/blob/master/screen%203%20-%20chatScreen.png](https://github.com/Prudhvikopella/Round32/blob/master/screen%203%20-%20chatScreen.png)
 
 ## 👤 Author
 Prudhvi Naidu  
