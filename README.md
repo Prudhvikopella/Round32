@@ -10,7 +10,7 @@ An Android assignment project using Jetpack Compose, built as part of an intervi
 
 ## 🚀 How to Run
 1. Clone the repo:
-https://github.com/Prudhvikopella/Round32/new/master?filename=README.md
+[https://github.com/Prudhvikopella/Round32/new/master?filename=README.md](https://github.com/Prudhvikopella/Round32.git)
 2. Open in Android Studio.
 3. Run the app on an emulator or device.
 
