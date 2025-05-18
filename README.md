@@ -53,7 +53,7 @@ git clone https://github.com/Prudhvikopella/Round32.git
 ### 🌚 Dark Theme
 
 - **Home Screen (Dark)**  
-![Dark Home](https://github.com/Prudhvikopella/Round32/blob/master/screen%204%20-%20HomeDark.png)
+![Dark Home](https://github.com/Prudhvikopella/Round32/blob/master/screen%201%20-%20HomeScreen.png)
 
 - **User Detail Screen (Dark)**  
 ![Dark Detail](https://github.com/Prudhvikopella/Round32/blob/master/screen%205%20-%20DetailDark.png)
