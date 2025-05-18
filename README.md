@@ -80,7 +80,7 @@ Watch a walkthrough of the app:
 ## 📱 APK Download
 
 Try the app on your device:  
-📦 [Download APK](https://your-apk-link.com) *(Replace with actual file link, e.g., Google Drive, Dropbox, etc.)*
+📦 [Download APK](https://github.com/Prudhvikopella/Round32/blob/master/app-debug.apk) *(Replace with actual file link, e.g., Google Drive, Dropbox, etc.)*
 
 ---
 
