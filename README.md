@@ -1,3 +1,4 @@
+
 # 💘 Match Finder App
 
 An Android assignment project using **Jetpack Compose**, built as part of an interview process for **HumansHere.ai**. The app provides a smooth user experience for discovering and interacting with potential matches.  
@@ -18,7 +19,7 @@ The design closely resembles the provided reference, especially in **dark mode**
 ## 🚀 How to Run
 
 1. Clone the repository:
-   ```
+   ```bash
    git clone https://github.com/Prudhvikopella/Round32.git
    ```
 
@@ -72,15 +73,22 @@ The design closely resembles the provided reference, especially in **dark mode**
 
 ## 🎥 Demo Video
 
-Watch a walkthrough of the app:
-🔗 [App Demo](https://github.com/Prudhvikopella/Round32/blob/master/screen-20250518-113049.mp4) *(Replace with actual video link once uploaded)*
+Watch a walkthrough of the app in action:  
+▶️ [App Demo](https://github.com/Prudhvikopella/Round32/blob/master/screen-20250518-113049.mp4)  
+> 📌 **How to play**: Click the link above. If the video doesn't stream directly, download it and play using any standard video player (e.g., VLC, default mobile player).
 
 ---
 
 ## 📱 APK Download
 
-Try the app on your device:  
-📦 [Download APK](https://github.com/Prudhvikopella/Round32/blob/master/app-debug.apk) *(Replace with actual file link, e.g., Google Drive, Dropbox, etc.)*
+Try the app on your Android device:  
+📦 [Download APK](https://github.com/Prudhvikopella/Round32/blob/master/app-debug.apk)
+
+> 📌 **How to install**:
+1. Download the APK file from the link above.
+2. On your Android device, go to **Settings > Security > Install unknown apps** and enable access for your browser or file manager.
+3. Open the APK file and tap **Install**.
+4. Once installed, launch the app from your app drawer.
 
 ---
 
