@@ -72,8 +72,8 @@ The design closely resembles the provided reference, especially in **dark mode**
 
 ## 🎥 Demo Video
 
-Watch a walkthrough of the app:  
-🔗 [YouTube Demo](https://your-demo-link.com) *(Replace with actual video link once uploaded)*
+Watch a walkthrough of the app:
+🔗 [App Demo](https://github.com/Prudhvikopella/Round32/blob/master/screen-20250518-113049.mp4) *(Replace with actual video link once uploaded)*
 
 ---
 
