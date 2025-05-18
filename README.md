@@ -1,8 +1,7 @@
-
 # 💘 Match Finder App
 
-An Android assignment project using **Jetpack Compose**, built as part of an interview process for **HumansHere.ai**. The app provides a smooth user experience for discovering and interacting with potential matches.  
-The design closely resembles the provided reference, especially in **dark mode**.
+An Android assignment project using **Jetpack Compose**, built as part of an interview process for **HumansHere.ai**. The app delivers a streamlined and engaging user experience for discovering and interacting with potential matches.  
+The design closely mimics the provided reference, with a particular focus on **dark mode aesthetics**.
 
 ---
 
@@ -11,8 +10,8 @@ The design closely resembles the provided reference, especially in **dark mode**
 - **Kotlin**
 - **Jetpack Compose**
 - **Material 3**
-- **Coil** (Image loading)
-- **LazyVerticalStaggeredGrid** (Layout)
+- **Coil** – Efficient image loading
+- **LazyVerticalStaggeredGrid** – Layout implementation
 
 ---
 
@@ -30,15 +29,25 @@ The design closely resembles the provided reference, especially in **dark mode**
 
 ## ✅ Features
 
-- 🧑‍🤝‍🧑 **Profile Cards**: Display user profiles with smooth scrolling.
-- 🎨 **Material 3 UI**: Clean and modern card-based design.
-- 🌗 **Light/Dark Theme Adaptability**: UI auto-adjusts based on system theme.
-- 🎤 **Voice-to-Text Input**: Enable easy interaction.
-- 📦 **Efficient Image Loading**: Handled using Coil.
-- 🎯 **Modular Design**: Easy to extend and maintain.
-- ✉️ **Auto Message Simulation**: When a user opens a chat, a simulated “Hi” is automatically received from the other person, mimicking real-time conversation.
-- 🟢 **User Online Indicator**: Each user card displays online status visually.
-- 🔒 **Concept Icons**: Placeholder icons used for design flow demonstration.
+- 🧑‍🤝‍🧑 **Profile Cards**: Cleanly presented user profiles in a dynamic card layout.
+- 🎨 **Material 3 UI**: Sleek modern UI built with Material You guidelines.
+- 🌗 **Light/Dark Theme Support**: UI adapts seamlessly to the device's system theme.
+- 🎤 **Voice-to-Text Input**: Chat input supports speech recognition.
+- 📦 **Efficient Image Loading**: Powered by Coil for better performance.
+- ✉️ **Simulated Auto-Response**: Chat screen includes an auto-generated “Hi” message from the other user upon opening, simulating real-time interaction.
+- 🟢 **Online User Indicator**: Green dot signifies a user is online.
+- 🧱 **Modular & Scalable Architecture**: Built for easy feature extension.
+- 🔒 **Placeholder Icons & UI Elements**: Icons and design components serve as conceptual placeholders for a production-ready system.
+
+---
+
+## ✨ Notes on Customization and Design Adjustments
+
+- 🔙 **Filter & Back Buttons Removed**: These UI elements were non-functional in the provided reference, so they were removed from the Home screen for cleaner UX.
+- 🧩 **Tab Repositioning**: The tabs were adjusted slightly lower for improved visual hierarchy and design consistency.
+- 🤖 **Auto Hi Message**: Introduced to simulate an engaging conversation starter.
+- 🖼️ **Photo Scroll Performance**: Some stutter is observed in scrolling due to high-resolution images. Images have been partially optimized for this assessment; a deeper optimization (e.g., dynamic resizing or compression) is feasible in a full implementation.
+- ⏱️ **Time-Conscious Decisions**: As this was an assessment with limited time, certain advanced optimizations were deferred, showcasing not just technical ability but also smart prioritization. I consciously noted what could be improved further and would tackle those in a full-scale app.
 
 ---
 
@@ -66,34 +75,36 @@ The design closely resembles the provided reference, especially in **dark mode**
 - **Chat Screen (Dark)**  
   ![Dark Chat](https://github.com/Prudhvikopella/Round32/blob/master/ChatDark.png)
 
-> ⚠️ **Design Note**  
-> Icons, fonts, and color schemes used in this project are **conceptual placeholders** aimed at demonstrating layout, hierarchy, and user flow. These can be replaced or refined based on final **branding guidelines**, **custom design systems**, or **production requirements**.
+> ⚠️ **Design Disclaimer**:  
+> Fonts, icons, and color schemes are illustrative placeholders, intended to demonstrate structural layout, design flow, and user engagement patterns. Final assets and styles would adhere to actual product branding and UI guidelines.
 
 ---
 
 ## 🎥 Demo Video
 
-Watch a walkthrough of the app in action:  
+See the app in action:  
 ▶️ [App Demo](https://github.com/Prudhvikopella/Round32/blob/master/screen-20250518-113049.mp4)  
-> 📌 **How to play**: Click the link above. If the video doesn't stream directly, download it and play using any standard video player (e.g., VLC, default mobile player).
+> 📌 **Playback Tip**: If the video doesn’t stream, download and play via any video player (e.g., VLC or system default).
 
 ---
 
 ## 📱 APK Download
 
-Try the app on your Android device:  
+Install and test the app:  
 📦 [Download APK](https://github.com/Prudhvikopella/Round32/blob/master/app-debug.apk)
 
-> 📌 **How to install**:
-1. Download the APK file from the link above.
-2. On your Android device, go to **Settings > Security > Install unknown apps** and enable access for your browser or file manager.
-3. Open the APK file and tap **Install**.
-4. Once installed, launch the app from your app drawer.
+> 📌 **Installation Instructions**:
+1. Download the APK from the link above.
+2. Enable "Install unknown apps" in device settings for your browser or file manager.
+3. Tap the APK file and install.
+4. Open the app from your app drawer.
 
 ---
 
 ## 👤 Author
 
 **Prudhvi Naidu**  
-📧 Email: [prudhvinaidu193@gmail.com](mailto:prudhvinaidu193@gmail.com)  
-🔗 GitHub: [github.com/Prudhvikopella](https://github.com/Prudhvikopella)
+📧 [prudhvinaidu193@gmail.com](mailto:prudhvinaidu193@gmail.com)  
+🔗 [GitHub - Prudhvikopella](https://github.com/Prudhvikopella)
+
+---
