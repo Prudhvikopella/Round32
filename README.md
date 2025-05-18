@@ -59,7 +59,7 @@ git clone https://github.com/Prudhvikopella/Round32.git
 ![Dark Detail](https://github.com/Prudhvikopella/Round32/blob/master/screen%205%20-%20DetailDark.png)
 
 - **Chat Screen (Dark)**  
-![Dark Chat](https://github.com/Prudhvikopella/Round32/blob/master/screen%206%20-%20ChatDark.png)
+![Dark Chat](https://github.com/Prudhvikopella/Round32/blob/master/ChatDark.png)
 
 > ⚠️ Design Note:
 Icons, fonts, and color schemes used in this project are conceptual placeholders aimed at demonstrating layout, hierarchy, and user flow. These can be replaced or refined based on final branding guidelines, custom design systems, or product requirements during production.
