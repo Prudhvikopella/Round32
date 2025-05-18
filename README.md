@@ -56,7 +56,7 @@ git clone https://github.com/Prudhvikopella/Round32.git
 ![Dark Home](https://github.com/Prudhvikopella/Round32/blob/master/HomeDark.png)
 
 - **User Detail Screen (Dark)**  
-![Dark Detail](https://github.com/Prudhvikopella/Round32/blob/master/screen%205%20-%20DetailDark.png)
+![Dark Detail](https://github.com/Prudhvikopella/Round32/blob/master/UserDetailDark.png)
 
 - **Chat Screen (Dark)**  
 ![Dark Chat](https://github.com/Prudhvikopella/Round32/blob/master/ChatDark.png)
